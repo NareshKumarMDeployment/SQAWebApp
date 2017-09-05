@@ -390,7 +390,7 @@
     "close":"Close",
     "report_wait1":"Please wait... while saving project details",
     "saveAsProj":"Please change the project name",
-    "changePname":"Project Name"
+    "changePname":"Project Name*"
   },
   "admin_page": {
     "header": "User Details",
