@@ -231,7 +231,7 @@
     "packaged_area_tooltip":"Préciser le pourcentage de la surface climatisée",
     "orientation_tooltip":"Spécifiez la valeur comprise entre -360 et +360",
     "floor_height_tooltip":"Hauteur moyenne d’un étage ",
-    "building_height":"Spécifier la hauteur totale du bâtiment",
+    "building_height_tooltip":"Spécifier la hauteur totale du bâtiment",
     "dimensions_tooltip":"Précisez les dimensions",
     "area_by_floor_tooltip":"Spécifiez la surface de plancher",
     "x1_tooltip":"Entrer la dimension X1 (voir le plan du bâtiment)",
