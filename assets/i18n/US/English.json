@@ -1,3 +1,4 @@
+
 {
   "login": {
     "title": "Please Log In",
@@ -231,7 +232,7 @@
     "packaged_area_tooltip":"Provide the percent of the air-conditioned area",
     "orientation_tooltip":"Specify a value between -360 to +360 to set the orientation of the building",
     "floor_height_tooltip":"Average floor to floor height",
-    "building_height":"Height of the building",
+    "building_height":"Height of the building*",
     "building_height_tooltip":"Provide the total height of the building",
     "dimensions_tooltip":"Specify the dimensions",
     "area_by_floor_tooltip":"Specify the floor area",
@@ -678,7 +679,8 @@
   "buttonDropDown":{
     "output":"Output",
     "report":"Report",
-    "inpFile":"INP File"
+    "inpFile":"INP File",
+    "bdlFile":"BDL File"
   }
 
 

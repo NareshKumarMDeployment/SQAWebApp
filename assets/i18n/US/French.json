@@ -223,13 +223,13 @@
     "dimensions": "Dimensions*",
     "area_by_floor": "Surface au Sol*",
     "deg": "deg",
-    "building_name_tooltip":"Fournissez un nom pour votre bâtiment",
+    "building_name_tooltip":"Indiquer le nom du bâtiment",
     "building_adress_tooltip":"Indiquer l'adresse du bâtiment",
     "building_type_tooltip":"Choisir un type de bâtiment",
     "floor_count_tooltip":"Préciser le nombre d'étages",
     "building_location_tooltip":"Choisir l'emplacement du bâtiment, choisir d'abord le gouvernorat, ensuite la délégation",
     "packaged_area_tooltip":"Préciser le pourcentage de la surface climatisée",
-    "orientation_tooltip":"Spécifiez la valeur comprise entre -360 et +360",
+    "orientation_tooltip":"Spécifier une valeur comprise entre -360 et +360",
     "floor_height_tooltip":"Hauteur moyenne d’un étage ",
     "building_height_tooltip":"Spécifier la hauteur totale du bâtiment",
     "dimensions_tooltip":"Précisez les dimensions",
@@ -679,6 +679,7 @@
   "buttonDropDown":{
     "output":"Résultat",
     "report":"Rapport",
-    "inpFile":"INP Fichier"
+    "inpFile":"INP Fichier",
+    "bdlFile":"BDL Fichier"
   }
 }
