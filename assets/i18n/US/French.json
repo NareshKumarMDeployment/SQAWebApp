@@ -315,6 +315,7 @@
     "construcname_tooltip":"Indiquer un nom pour la nouvelle construction",
     "construspecific_tooltip":"Sélectionner la méthode de spécification de la construction",
     "construroughness_tooltip":"La valeur de rugosité de surface doit être comprise entre 1 et 6",
+    "resistance_tooltip":"Fournir une valeur pour la résistance",
     "construexterior_tooltip":"Préciser la couleur de la surface (valeur d’absorptance entre 0 et 1.0)",    
     "construnewlayer_tooltip":"Indiquer un nom pour la couche de construction (le nom de la couche doit être diffèrent du nom de la construction)",
     "construlayername_tooltip":"Indiquer un nome pour la couche de construction",

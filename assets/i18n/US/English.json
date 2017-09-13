@@ -317,6 +317,7 @@
     "construcname_tooltip":"Provide a name for the new construction ",
     "construspecific_tooltip":"Select the specification type for the construction",
     "construroughness_tooltip":"Provide a value for the surface roughness between 1 to 6",
+    "resistance_tooltip":"Provide a value for the resistance",
     "construexterior_tooltip":"Provide an absorptance value for the surface between 0.0 to 1.0",
     "construnewlayer_tooltip":"Provide a name for the Layer which is different from the name of the construction",
     "construlayername_tooltip":"Provide a name for the construction layer",
