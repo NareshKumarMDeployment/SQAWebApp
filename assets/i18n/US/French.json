@@ -216,8 +216,8 @@
     "floor_count": "Nombre de Niveaux*",
     "floor": "Etages",
     "packaged_area": "Superficie Conditionnée*",
-    "form_of_building": "Forme du Bâtiment",
-    "orientation": "I'orientation du bâtiment*",
+    "form_of_building": "Choisir la forme du bâtiment",
+    "orientation": "Orientation du Bâtiment*",
     "building_height":"Hauteur du bâtiment*",
     "floor_height": "Hauteur de I'Etage*",
     "dimensions": "Dimensions*",
@@ -240,7 +240,8 @@
     "y2_tooltip":"Entrer la dimension Y2 (inférieure à Y1, voir le plan du bâtiment)",
     "x3_tooltip":"Entrer la dimension X3 (inférieure à X2, voir le plan du bâtiment) ",
     "y3_tooltip":"Entrer la dimension Y3 (inférieure à Y2, voir le plan du bâtiment)",
-    "location_name":"Délégation"
+    "location_name":"Délégation",
+    "location_gov":"Gouvernorat"
   },
 
   "envelope_page":{
@@ -252,7 +253,7 @@
     "wall_quest":"Mur Ouest",
     "roof":"Toit",
     "edit":"Modifier",
-    "floor_exhibition":"Exposition du Plancher",
+    "floor_exhibition":"Exposition du plancher bas",
     "window":"Fenêtres",
     "conditioned_areas":"(seulement pour les zones conditionnées)",
     "window_wall_ratio":"ratio vitrage-mur",
@@ -263,10 +264,10 @@
     "quest":"Ouest",
     "depth":"(profondeur)",
     "vitrage_type":"Vitrage Type",
-    "over_hang":"Pare Soleil*",
-    "fp":"FP*",
+    "over_hang":"Pare Soleil(Paramètre A)",
+    "fp":"FP(A/B)*",
     "skylight_type":"Type de Puits de Lumière",    
-    "cover_well_light":"Couverture du Puits de Lumière*",
+    "cover_well_light":"Ombrage du puits de lumière*",
     "tabtitle1":"Sud",
     "tabtitle2":"Nord",
     "tabtitle3":"Est",
@@ -289,7 +290,7 @@
     "tabhead4":"Densité(kg/m3)",
     "tabhead5":"Chaleur Specifique(J/kg.K)",
     "tabhead6":"Valeur R(m2.K/W)",
-    "ok":"D'accord",
+    "ok":"Valider",
     "cancel":"Annuler",
     "save":"Sauvegarder",
     "name":"Nom*",
@@ -373,7 +374,7 @@
     "space_condition": "Climatisé",
     "uncondition_space": "Non Climatisé",
     "area_percent": "somme pourcentage superficie",
-    "title2": "Chauffage d'Eau Domestique",
+    "title2": "Chauffage d’Eau Sanitaire",
     "title3": "Type d'Appareil de Chauffage",
     "air_renewal": "*Renouvellement d'Air par Heure",
     "area_percent_tooltip":"Spécifiez la superficie totale",
@@ -381,9 +382,9 @@
   },
   "newproject": {
     "savencont": "Sauvegarder et Continuer",
-    "save_as": "Sauvegarder  Sous",
+    "save_as": "Enregistrer sous",
     "submit": "Simuler",
-    "clear": "Clair",
+    "clear": "Vider tous les champs",
     "save":"Sauvegarder",
     "report_error":"Le rapport de simulation n'a pas pu être généré. Vérifiez vos intrants.",
     "report_wait":"Veuillez patienter... Un rapport de simulation est généré.",
@@ -682,5 +683,8 @@
     "report":"Rapport",
     "inpFile":"INP Fichier",
     "bdlFile":"BDL Fichier"
+  },
+  "mandatory_field":{
+    "mandatory":"* champs requis"
   }
 }

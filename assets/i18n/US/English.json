@@ -242,7 +242,8 @@
     "y2_tooltip":"Enter Y2 value which should be smaller than Y1 (refer to the floor plan)",
     "x3_tooltip":"Enter X3 value which should be smaller than X2 (refer to the floor plan)",
     "y3_tooltip":"Enter Y3 value which should be smaller than Y2 (refer to the floor plan)",
-    "location_name":"Delegation"
+    "location_name":"Delegation",
+    "location_gov":"Governorate"
   },
   "envelope_page": {
     "title": "Exterior Constructions",
@@ -264,8 +265,8 @@
     "quest": "West",
     "depth": "(depth)",
     "vitrage_type": "Glazing type",
-    "over_hang": "Overhang*",
-    "fp": "FP*",
+    "over_hang": "Overhang(Parameter A)",
+    "fp": "FP (A/B)*",
     "skylight_type": "Type of Skylight",
     "cover_well_light": "Cover of the Well of Light*",
     "tabtitle1": "South",
@@ -682,6 +683,9 @@
     "report":"Report",
     "inpFile":"INP File",
     "bdlFile":"BDL File"
+  },
+  "mandatory_field":{
+    "mandatory":"* Required fields"
   }
 
 
